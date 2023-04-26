@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hui-page/static/css/main.073c9b0a.css",
+    "main.js": "/hui-page/static/js/main.3bbe1ee1.js",
+    "static/js/787.9f75818f.chunk.js": "/hui-page/static/js/787.9f75818f.chunk.js",
+    "static/media/logo.svg": "/hui-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hui-page/index.html",
+    "main.073c9b0a.css.map": "/hui-page/static/css/main.073c9b0a.css.map",
+    "main.3bbe1ee1.js.map": "/hui-page/static/js/main.3bbe1ee1.js.map",
+    "787.9f75818f.chunk.js.map": "/hui-page/static/js/787.9f75818f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3bbe1ee1.js"
+  ]
+}
